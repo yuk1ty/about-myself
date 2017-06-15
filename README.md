@@ -10,7 +10,6 @@
 * HTML/CSS
 * Spring Boot
 * Guava
-* durandal.js
 * JUnit
 * SVN
 * Eclipse
@@ -22,6 +21,7 @@
 * Hazelcast
 * Jenkins
 * Oracle 11g, 12c
+* durandal.js
 
 ## 個人的に扱ったことがあるもの
 
@@ -37,6 +37,7 @@
 * SQLite3: django についていたものを軽く使いました。
 * H2DB: Spring Boot で作ったときに遊びました。
 * Doma2: Spring Boot で作ったときに遊びました。
+* Gradle
 * Git / GitHub: 同僚とチーム開発のようなことをしたりもしました。ただし実務は SVN のみです。
 * Atom: Sublime から浮気。
 * Sublime Text: 恋するエディタ。
