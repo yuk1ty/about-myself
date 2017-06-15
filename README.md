@@ -14,6 +14,8 @@
 * SVN
 * Eclipse
 * IntelliJ IDEA
+* Java Mission Control
+* Java VisualVM
 
 業務で触ったことがあるものの、短期間のみ。あるいは、導入済みの状態で使用しただけのもの。
 
