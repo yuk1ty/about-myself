@@ -38,7 +38,7 @@
 * JavaScript (ECMAScript 6)
 
 ### ライブラリ・フレームワーク・etc
-* Docker: Jupyter Notebook を設定したり、nginx を入れてみたりなど。
+* Docker: Jupyter Notebook を設定したり、nginx を入れてみたりなど。あと Raspberry Pi 上に Web サーバーを立ち上げるために導入した、など。
 * Vue.js: シンプルでいいですね。
 * jQuery: 4、5年前に使っていました。
 * SQLite3: django についていたものを軽く使いました。
