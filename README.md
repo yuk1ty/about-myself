@@ -29,11 +29,16 @@
 
 触ったことのあるものをすべてあげています。詳しいところは各リポジトリをご覧ください。
 
+### 言語
 * Rust: 最近はまってます。美しい。
+* Scheme: SICP本やるためにはじめましたが、シンプルな構造に感銘を受けて勉強中。
+* Scala: コップ本読み始めた感じ。
 * Python (django): 同僚と時価取得のアプリを開発する、など。簡単なツール作成をすることが多いです。
 * Ruby (on Rails): 興味でちょっと触ってみたが、とくに作りたいものもなく放置。
-* Docker: Jupyter Notebook を設定したり、nginx を入れてみたりなど。
 * JavaScript (ECMAScript 6)
+
+### ライブラリ・フレームワーク・etc
+* Docker: Jupyter Notebook を設定したり、nginx を入れてみたりなど。
 * Vue.js: シンプルでいいですね。
 * jQuery: 4、5年前に使っていました。
 * SQLite3: django についていたものを軽く使いました。
